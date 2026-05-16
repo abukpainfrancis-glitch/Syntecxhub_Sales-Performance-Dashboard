@@ -101,7 +101,7 @@ Syntecxhub_Sales_Analysis/
 ## 👤 Author
 
 **ABUKPAIN FRANCIS**
-- 🔗 LinkedIn: [ABUKPAIN FRANCIS],(httsp://linkedin.com/in/abukpain-francis-0276a2298)
+- 🔗 LinkedIn: [ABUKPAIN FRANCIS](https://www.linkedin.com/in/abukpain-francis-0276a2298/)
 - 💻 GitHub: [ABUKPAIN FRANCIS](https://github.com/abukpainfrancis-glitch/Syntecxhub_Sales-Performance-Dashboard.git)
 ---
 

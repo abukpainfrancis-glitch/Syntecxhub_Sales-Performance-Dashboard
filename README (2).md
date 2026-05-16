@@ -100,8 +100,8 @@ Syntecxhub_Sales_Analysis/
 
 ## 👤 Author
 
-**Your Name**
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+**ABUKPAIN FRANCIS**
+- 🔗 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/abukpain-francis-0276a2298)
 - 💻 GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ---

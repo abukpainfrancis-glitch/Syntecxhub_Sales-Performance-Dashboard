@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-This project was completed as part of the **Syntecxhub Internship Program**. It involves a comprehensive **Sales Analysis** of a Super Store dataset using **Power BI**, featuring an interactive dashboard that reveals key business insights across sales, profit, regions, categories, and shipping modes.
+This project was completed as part of the **Syntecxhub Internship Program**. It involves a comprehensive **Sales Analysis** of a Super Store dataset using **Power BI**, featuring an interactive dashboard that reveals key business insights across sales, profit, regions, categories.
 
 ---
 
@@ -16,7 +16,7 @@ This project was completed as part of the **Syntecxhub Internship Program**. It 
 
 - Analyze total sales, quantity, profit, and delivery performance
 - Compare sales and profit trends Year-over-Year (2019 vs 2020)
-- Break down performance by region, segment, category, and ship mode
+- Break down performance by region, segment, category.
 - Calculate Year-over-Year Sales Growth Rate
 - Identify Top 5 and Bottom 5 performing products
 - Present findings through a clean, interactive dashboard
@@ -51,8 +51,6 @@ Syntecxhub_Sales_Analysis/
 | **Total Sales** | 1.6M |
 | **Total Profit** | 175.3K |
 | **YoY Sales Growth Rate** | 77.3% |
-| **Average Delivery Days** | 4 |
-
 **Key Visuals:**
 - 📍 **Sales & Profit by State** — Interactive map across North America
 - 📊 **Sales Yearly, Monthly & Daily Trend** — 2019 vs 2020 comparison
@@ -71,7 +69,7 @@ Syntecxhub_Sales_Analysis/
 - 📌 **West region** leads in sales at 0.52M
 - 📌 **Phones** are the highest-selling sub-category at 0.20M
 - 📌 **Art** is the lowest-selling sub-category at 51K
-- 📌 Average delivery time is **4 days** across all regions
+
 
 ---
 
